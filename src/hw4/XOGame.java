@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * This is homework of lesson #4
+ * XO game
  * Educational portal "GeekBrains"
  * Geek University Android-development
  *
